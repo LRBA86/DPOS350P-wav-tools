@@ -1,0 +1,4 @@
+numpy
+plotly        # --plot
+pytest        # testes
+# ferramentas_re/ (engenharia reversa do firmware): capstone, unicorn
